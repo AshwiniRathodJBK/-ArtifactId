@@ -1,7 +1,5 @@
 package com.javabykiran.loggintesting.admin;
-
 import org.apache.log4j.Logger;
-
 public class SampleReport {
 	
 	static Logger logger = Logger.getLogger(SampleReport.class);

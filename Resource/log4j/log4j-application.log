@@ -3384,3 +3384,23 @@
 2018-12-01 20:10:25 DEBUG impl.conn.PoolingHttpClientConnectionManager:320 - Connection released: [id: 0][route: {}->http://localhost:43058][total kept alive: 1; route allocated: 1 of 2000; total allocated: 1 of 2000]
 2018-12-01 20:10:25 DEBUG impl.conn.PoolingHttpClientConnectionManager:401 - Closing connections idle longer than 0 SECONDS
 2018-12-01 20:10:25 DEBUG impl.conn.DefaultManagedHttpClientConnection:81 - http-outgoing-0: Close connection
+2019-02-04 14:18:29 DEBUG loggintesting.admin.SampleAdmin:14 - SampleAdmin debug message
+2019-02-04 14:18:30 INFO loggintesting.admin.SampleAdmin:15 - SampleAdmin info message
+2019-02-04 14:18:30 WARN loggintesting.admin.SampleAdmin:16 - SampleAdmin warn message
+2019-02-04 14:18:30 ERROR loggintesting.admin.SampleAdmin:17 - SampleAdmin error message
+2019-02-04 14:18:30 FATAL loggintesting.admin.SampleAdmin:18 - SampleAdmin fatal message
+2019-02-04 14:18:30 DEBUG loggintesting.admin.SampleReport:11 - SampleReport debug message
+2019-02-04 14:18:30 INFO loggintesting.admin.SampleReport:12 - SampleReport info message
+2019-02-04 14:18:30 WARN loggintesting.admin.SampleReport:13 - SampleReport warn message
+2019-02-04 14:18:30 ERROR loggintesting.admin.SampleReport:14 - SampleReport error message
+2019-02-04 14:18:30 FATAL loggintesting.admin.SampleReport:15 - SampleReport fatal message
+2019-02-04 14:20:24 DEBUG loggintesting.admin.SampleAdmin:14 - SampleAdmin debug message
+2019-02-04 14:20:24 INFO loggintesting.admin.SampleAdmin:15 - SampleAdmin info message
+2019-02-04 14:20:24 WARN loggintesting.admin.SampleAdmin:16 - SampleAdmin warn message
+2019-02-04 14:20:24 ERROR loggintesting.admin.SampleAdmin:17 - SampleAdmin error message
+2019-02-04 14:20:24 FATAL loggintesting.admin.SampleAdmin:18 - SampleAdmin fatal message
+2019-02-04 14:20:24 DEBUG loggintesting.admin.SampleReport:11 - SampleReport debug message
+2019-02-04 14:20:24 INFO loggintesting.admin.SampleReport:12 - SampleReport info message
+2019-02-04 14:20:24 WARN loggintesting.admin.SampleReport:13 - SampleReport warn message
+2019-02-04 14:20:24 ERROR loggintesting.admin.SampleReport:14 - SampleReport error message
+2019-02-04 14:20:24 FATAL loggintesting.admin.SampleReport:15 - SampleReport fatal message
